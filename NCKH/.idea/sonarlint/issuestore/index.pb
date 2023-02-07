@@ -1,0 +1,9 @@
+
+<
+home/urls.py,f\9\f9782bad13aa4d6aa4b8882f98cae6053daa8556
+9
+	manage.py,3\1\3156ad13e4d695cd526bbb7b031016ecba842270
+=
+home/tests.py,0\6\06866b437574e86b9e3ad18a530368abb09b3927
+=
+home/views.py,8\a\8a8ef48d8177b42e17ba0f631c729a443109261d
